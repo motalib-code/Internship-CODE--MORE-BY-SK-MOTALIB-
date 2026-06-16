@@ -1,0 +1,6 @@
+Dataset: Titanic - Machine Learning from Disaster
+Source: https://www.kaggle.com/c/titanic
+Preprocessed from: Task 1 (feature engineering + OHE)
+Features: 21 features + target (survived)
+Records: 891 passengers
+Target: survived (binary: 0 = Not Survived, 1 = Survived)
