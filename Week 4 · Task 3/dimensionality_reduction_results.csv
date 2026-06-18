@@ -1,0 +1,15 @@
+Metric,Value
+Dataset,Wine
+Original Dimensions,13
+PCA Components (95% var),10
+PCA Reconstruction Error,0.038303
+PCA Explained Variance (PC1),0.3620
+PCA Explained Variance (PC2),0.1921
+PCA Total Variance (top 2),0.5541
+t-SNE Trustworthiness,0.9546
+t-SNE Perplexity (best),30
+Accuracy - Original,0.9889 ± 0.0136
+Accuracy - PCA,0.9889 ± 0.0136
+Accuracy - t-SNE,0.9665 ± 0.0207
+Class Separation (PCA),Good (linear separation)
+Class Separation (t-SNE),Excellent (non-linear clusters)
