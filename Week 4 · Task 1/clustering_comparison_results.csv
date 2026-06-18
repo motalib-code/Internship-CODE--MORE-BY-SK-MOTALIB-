@@ -1,0 +1,4 @@
+Algorithm,Clusters,Silhouette (higher=better),Davies-Bouldin (lower=better),Calinski-Harabasz (higher=better),Noise Points
+K-Means,4,0.7643,0.3284,1399.95,0
+Hierarchical,4,0.7643,0.3284,1399.95,0
+DBSCAN,4,0.7697,0.3192,1465.69,2
